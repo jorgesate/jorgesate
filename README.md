@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Jorge Sáez from Spain. 
+Currently working as a machine vision engineer and messing around with coding, game programming on Playdate and learning to play piano.
+
 <!--
 **jorgesate/jorgesate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
